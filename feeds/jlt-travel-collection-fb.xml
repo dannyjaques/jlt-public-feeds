@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>JLT Travel Collection</title>
+    <link>https://thejltgroup.co.uk/travel-collection</link>
+    <description>Featured offers from JLT Group's travel partners</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+  </channel>
+</rss>
