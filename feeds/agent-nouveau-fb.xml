@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Agent Nouveau — Facebook</title>
+    <link>https://www.agentnouveau.com/</link>
+    <description>Agent Nouveau journal — Facebook editorial feed</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[⟡ The Valleys That Run on Afternoons]]></title>
+      <description><![CDATA[⟡ The Valleys That Run on Afternoons
+
+The first wine at the Cape was pressed in 1659. The vineyards that grew from it cover the valleys an hour east of Cape Town, and after three and a half centuries they have learned how to be unhurried.
+
+We keep sending people to Stellenbosch and Franschhoek, and almost never for the scores. We send them for the afternoon. A table booked for one o'clock that is still going at five. The light coming down off the mountains in the last hours of the day. Travel measured in hours given back, not sights collected.
+
+Our new journal piece on Franschhoek, Stellenbosch, and the case for the long lunch.
+
+Come find us at No.82.
+
+🕶️
+✉️ hello@agentnouveau.com]]></description>
+      <link>https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons#fb1</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_BodyOpener_FB_1200x630-2026-06-07.webp" length="192794" type="image/webp"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_BodyOpener_FB_1200x630-2026-06-07.webp" medium="image" type="image/webp" width="1200" height="630"/>
+    </item>
+    <item>
+      <title><![CDATA[⟡ Lunch as the destination]]></title>
+      <description><![CDATA[⟡ Lunch as the destination
+
+Franschhoek takes its name from the French corner, after the Huguenots who arrived in 1688 with vine cuttings, surnames that still appear on the labels, and a way of eating that took its time. The valley kept the habit.
+
+A good long lunch starts late and refuses to hurry. A table on a shaded stoep, courses arriving when they are ready rather than when the kitchen wants the table back, a bottle from the estate you are sitting on, and a view that does most of the talking. By the time coffee comes the afternoon has gone, and that was the plan.
+
+Come find us at No.82.
+
+🕶️
+✉️ hello@agentnouveau.com]]></description>
+      <link>https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons</link>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons#fb2</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_InArticleLongLunch_FB_1200x630-2026-06-07.webp" length="151162" type="image/webp"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_InArticleLongLunch_FB_1200x630-2026-06-07.webp" medium="image" type="image/webp" width="1200" height="630"/>
+    </item>
+    <item>
+      <title><![CDATA[⟡ Stay in the valley]]></title>
+      <description><![CDATA[⟡ Stay in the valley
+
+The common mistake is basing yourself in Cape Town and driving out for the day. An hour each way, a designated driver who cannot taste a thing, and a clock running over the whole table.
+
+The Winelands reward the opposite. Stay in the valley. Give it days rather than hours. Let the afternoons run their natural length, with no drive home hanging over the last glass. Travelled this way, the region restores rather than depletes... and that is the version worth planning.
+
+Come find us at No.82.
+
+🕶️
+✉️ hello@agentnouveau.com]]></description>
+      <link>https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons</link>
+      <pubDate>Sat, 13 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.agentnouveau.com/journal/valleys-that-run-on-afternoons#fb3</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_InArticleStellenbosch_FB_1200x630-2026-06-07.webp" length="163622" type="image/webp"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/AN_CapeWinelands_InArticleStellenbosch_FB_1200x630-2026-06-07.webp" medium="image" type="image/webp" width="1200" height="630"/>
+    </item>
+  </channel>
+</rss>
