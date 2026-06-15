@@ -4,5 +4,20 @@
     <title>JLT Agent Craft</title>
     <link>https://janinelovestravel.co.uk/</link>
     <description>JLT Agent Craft — the craft behind the booking, for JLT Insiders</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[DELETE DELETE DELETE — Agent Craft feed test (safe to delete)]]></title>
+      <description><![CDATA[DELETE DELETE DELETE
+
+This is a temporary placeholder item used only to confirm the Sociamonials RSS wiring for the JLT Agent Craft feed. It contains no real content. Please delete this draft — it will be removed from the feed shortly.
+
+DELETE DELETE DELETE]]></description>
+      <link>https://janinelovestravel.co.uk/</link>
+      <pubDate>Mon, 15 Jun 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/#agent-craft-PLACEHOLDER-delete-me</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/Sophie_ConsumerConfidence_FBvariant-2026-06-15.png" length="2073411" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/Sophie_ConsumerConfidence_FBvariant-2026-06-15.png" medium="image" type="image/png"/>
+    </item>
   </channel>
 </rss>
