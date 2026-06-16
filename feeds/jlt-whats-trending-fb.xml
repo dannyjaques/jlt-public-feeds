@@ -5,14 +5,5 @@
     <link>https://janinelovestravel.co.uk/</link>
     <description>What's Trending in Travel — weekly UK travel trends for JLT agents</description>
     <language>en-gb</language>
-    <item>
-      <title><![CDATA[TEST — What's Trending Facebook feed check (safe to delete)]]></title>
-      <description><![CDATA[This is a test item used to register the What's Trending Facebook feed in Sociamonials. It carries no real content and is safe to delete once the RSS source has been added. The first real post will replace it on the next What's Trending run.]]></description>
-      <link>https://janinelovestravel.co.uk/</link>
-      <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://janinelovestravel.co.uk/#whats-trending-test-2026-06-17T09:00:00Z</guid>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" length="0" type="image/jpeg"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    </item>
   </channel>
 </rss>
