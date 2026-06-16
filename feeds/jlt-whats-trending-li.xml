@@ -14,5 +14,14 @@
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" length="0" type="image/jpeg"/>
       <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     </item>
+    <item>
+      <title><![CDATA[TEST 2 — What's Trending LinkedIn feed re-check (safe to delete)]]></title>
+      <description><![CDATA[Second test item for the What's Trending LinkedIn feed, pushed with a fresh GUID so Sociamonials imports it as a new draft. No real content; safe to delete once the RSS source is confirmed working.]]></description>
+      <link>https://janinelovestravel.co.uk/</link>
+      <pubDate>Thu, 18 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/#whats-trending-test-2026-06-18T09:00:00Z-2</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/Travel_Trends_Facebook.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    </item>
   </channel>
 </rss>
