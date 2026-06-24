@@ -6,7 +6,36 @@
     <description>Featured offers from JLT Group's travel partners</description>
     <language>en-gb</language>
     <ttl>30</ttl>
-                    <item>
+                <item>
+            <title><![CDATA[✨ Experience Spotlight: Goðafoss Waterfall and Whale Watching Tour, Akureyri 🐋]]></title>
+            <description><![CDATA[✨ Experience Spotlight: Goðafoss Waterfall and Whale Watching Tour, Akureyri 🐋
+
+Seven hours covering two of North Iceland's most iconic natural sights in a single shore day. Goðafoss thundering at 12 metres high and 30 metres wide, then out onto Eyjafjörður to look for humpbacks and minke whales.
+
+Perfect if your ship calls at Akureyri and you want one excursion that captures the real North Iceland. 🌊
+
+✨ What makes this special:
+→ Goðafoss Waterfall, 12 metres high and 30 metres wide, one of Iceland's most spectacular landmarks 💧
+→ Whale watching on Eyjafjörður, one of the longest fjords in Iceland 🐋
+→ Humpback whales, minke whales, harbour porpoises and white-beaked dolphins regularly sighted 🐬
+→ Rarer chances of killer whales and blue whales in season 🌊
+→ Comfortable coach transfer from Akureyri Port with flexible drop-off at Botanical Garden, City Centre or Cruise Port 🚌
+→ Multilingual reading material provided throughout the day 📖
+
+Built around the cruise day, with timings designed so you return to port well before sailing. Full refund applies if your ship is unable to call at Akureyri.
+
+*Seven hours, two iconic North Iceland sights, one shore day* 🗓️
+
+Ready to make the most of your day in Akureyri? 🐋 Email: bookings@thejltgroup.co.uk 📩
+
+#Iceland #Akureyri #ShoreExcursions #CruiseTravel #TheJLTCollection]]></description>
+            <link>https://yourshoretime.org/tours/akureyri-godafoss-waterfall-and-whale-watching-tour</link>
+            <pubDate>Tue, 24 Jun 2026 08:00:00 +0000</pubDate>
+            <guid isPermaLink="false">yourshoretime.org/tours/akureyri-godafoss-waterfall-and-whale-watching-tour#2026-06-24T08:00:00Z</guid>
+            <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/akureyri-godafoss-waterfall-and-whale-watching-tour-01_FB-2026-06-24.webp" length="129700" type="image/webp"/>
+            <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/akureyri-godafoss-waterfall-and-whale-watching-tour-01_FB-2026-06-24.webp" medium="image" type="image/webp" width="1200" height="630"/>
+        </item>
+            <item>
             <title><![CDATA[✨ Property Spotlight: Villa Barbati Beachfront, Corfu 🌊]]></title>
             <description><![CDATA[✨ Property Spotlight: Villa Barbati Beachfront, Corfu 🌊
 
@@ -1463,34 +1492,5 @@ Ready to escape to your own private island? 🌅 Email: bookings@thejltgroup.co.
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/six-senses-zil-pasyon-01_FB-2026-06-06.webp" length="101850" type="image/webp"/>
       <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/six-senses-zil-pasyon-01_FB-2026-06-06.webp" medium="image" type="image/webp" width="1200" height="630"/>
     </item>
-          <item>
-      <title><![CDATA[✨ Escape Spotlight: Local Living Italy - Amalfi Coast 🌊]]></title>
-      <description><![CDATA[✨ Escape Spotlight: Local Living Italy - Amalfi Coast 🌊
-
-Eight days based in a converted 16th-century monastery agriturismo above the Amalfi Coast, with the Path of the Gods, Pompeii, and a Naples food tour woven into the week. Small group travel capped at sixteen, so the pace stays relaxed and the dinner table stays personal.
-
-Perfect if you've been wanting the Amalfi Coast at walking pace, not bus-window speed. 🥾
-
-✨ What makes this special:
-→ Six nights in a renovated 16th-century monastery agriturismo with ensuite rooms and rural views 🏛️
-→ Path of the Gods hike above lemon groves, gorges, and the Mediterranean 🥾
-→ Guided tour of Pompeii, frozen in time since 79 AD 🌋
-→ Mount Tre Calli hike through woodland and open slopes down to the sea 🌿
-→ Naples food tour on Day 2 and a hands-on cooking demonstration on Day 6 🍝
-→ Seven breakfasts and six dinners included throughout 🍽️
-
-Maximum sixteen travellers, average group size twelve, with departures running June 2026 through October 2027. Suits hikers, foodies, and culture-led travellers: couples, solo travellers, and families with children aged 12+ all welcome.
-
-*Eight days, six nights in a 16th-century monastery, two coastal hikes, one Pompeii morning* 🌅
-
-Ready to swap day-trip Amalfi for the slow, lived-in version? 🌍 Email: bookings@thejltgroup.co.uk 📩
-
-**#AmalfiCoast #ItalyTravel #SmallGroupTravel #LocalLiving #TheJLTCollection**]]></description>
-      <link>https://gadventures.com/trips/local-living-italy-amalfi-coast/EIAL</link>
-      <pubDate>Sat, 06 Jun 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gadventures.com/trips/local-living-italy-amalfi-coast/EIAL#2026-06-06T11:00:00Z</guid>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/local-living-italy-amalfi-coast-01_FB-2026-06-06.webp" length="177714" type="image/webp"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/local-living-italy-amalfi-coast-01_FB-2026-06-06.webp" medium="image" type="image/webp" width="1200" height="630"/>
-    </item>
-  </channel>
+    </channel>
 </rss>
