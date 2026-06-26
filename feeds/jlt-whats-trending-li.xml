@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>JLT What's Trending — LinkedIn</title>
     <link>https://janinelovestravel.co.uk/</link>
     <description>What's Trending in Travel — LinkedIn Business edition</description>
     <language>en-gb</language>
         <item>
-      <title><![CDATA[UK travellers are not pulling back on summer 2026. They are making sharper choices about when, where and how they spend.]]></title>
-      <description><![CDATA[UK travellers are not pulling back on summer 2026. They are making sharper choices about when, where and how they spend.
+      <title>UK travellers are not pulling back on summer 2026. They are making sharper choices about when, where and how they spend.</title>
+      <description>UK travellers are not pulling back on summer 2026. They are making sharper choices about when, where and how they spend.
 
 Three things our agents are working with this week:
 
@@ -21,16 +21,16 @@ The full breakdown of this week's trends is on the blog.
 
 Blog link (post in your first comment, once live):
 
-https://janinelovestravel.co.uk/whats-trending-in-travel-smart-value-summer-2026-06-25]]></description>
+https://janinelovestravel.co.uk/whats-trending-in-travel-smart-value-summer-2026-06-25</description>
       <link>https://janinelovestravel.co.uk/whats-trending-in-travel-smart-value-summer-2026-06-25</link>
-      <pubDate>Thu, 25 Jun 2026 12:08:51 +0000</pubDate>
-      <guid isPermaLink="false">https://janinelovestravel.co.uk/whats-trending-in-travel-smart-value-summer-2026-06-25#2026-06-25T12:08:51Z</guid>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-25.jpg" length="155403" type="image/jpeg"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-25.jpg" medium="image" type="image/jpeg" width="1920" height="1080"/>
+      <pubDate>Fri, 26 Jun 2026 08:18:48 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/whats-trending-in-travel-smart-value-summer-2026-06-25#2026-06-25T12:08:51Z::restamp-20260626T081948Z</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-25.jpg" length="155403" type="image/jpeg" />
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-25.jpg" medium="image" type="image/jpeg" width="1920" height="1080" />
     </item>
     <item>
-      <title><![CDATA[UK travellers are not booking less in 2026. They are booking more carefully.]]></title>
-      <description><![CDATA[UK travellers are not booking less in 2026. They are booking more carefully.
+      <title>UK travellers are not booking less in 2026. They are booking more carefully.</title>
+      <description>UK travellers are not booking less in 2026. They are booking more carefully.
 
 Four trends our agents are drawing on this week:
 
@@ -41,12 +41,12 @@ Four trends our agents are drawing on this week:
 
 Helping clients be smart with their timing and their money is where great agent relationships are built. The full trend breakdown is on the JLT blog this week.
 
-[Blog link to be added in comments after 24-48 hrs]]]></description>
+[Blog link to be added in comments after 24-48 hrs]</description>
       <link>https://janinelovestravel.co.uk/whats-trending-in-travel-smart-money-weeks-2026-06-16</link>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/whats-trending-in-travel-smart-money-weeks-2026-06-16#2026-06-17T08:00:00Z</guid>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-16.jpg" length="190797" type="image/jpeg"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-16.jpg" medium="image" type="image/jpeg" width="1920" height="1080"/>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-06-16.jpg" length="190797" type="image/jpeg" />
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/whats-trending/whats-trending-hero-2026-16.jpg" medium="image" type="image/jpeg" width="1920" height="1080" />
     </item>
   </channel>
 </rss>
