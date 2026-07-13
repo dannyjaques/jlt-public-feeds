@@ -6,5 +6,14 @@
     <description>Monday Mindset — Janine's founder mindset stories for the JLT Members Facebook group</description>
     <language>en-GB</language>
     <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Test post — JLT Monday Mindset feed setup (please delete)]]></title>
+      <description><![CDATA[This is a one-off test item so Sociamonials can validate the new Monday Mindset feed. If this appears as a draft, the feed is connected correctly … delete this draft, do not queue it.]]></description>
+      <link>https://janinelovestravel.co.uk</link>
+      <pubDate>Mon, 13 Jul 2026 15:36:15 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk#mindset-fb-seed-2026-07-13T15:36:15Z</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/pillar/pillar-fb-questions-to-ask-a-host-agency-before-signing.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/pillar/pillar-fb-questions-to-ask-a-host-agency-before-signing.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    </item>
   </channel>
 </rss>
