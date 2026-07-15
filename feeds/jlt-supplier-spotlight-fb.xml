@@ -6,5 +6,28 @@
     <description>Weekly Supplier Spotlight from JLT Group — supplier training features for JLT agents</description>
     <language>en-gb</language>
     <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Fresh supplier spotlight for you all 🚢]]></title>
+      <description><![CDATA[Fresh supplier spotlight for you all 🚢
+
+Royal Caribbean's brand-new Legend of the Seas is now in service… the third Icon-class ship, and the first one ever to sail in Europe. If clients have been asking about "the big new one", this is her.
+
+Why she's worth a spot in your book:
+
+⚓ First Icon-class ship in Europe, with live inaugural buzz right now
+
+👨‍👩‍👧‍👦 Built for multigen families: waterpark, kids' zones, adults-only Hideaway, 28 restaurants
+
+🌊 5,610 guests but engineered so it never feels packed… your answer to the crowd worry
+
+🇪🇸 Med sailings from Barcelona and Rome now, Caribbean from autumn, Europe again in 2027
+
+Catch the full session and 300+ others in the agent hub webinar library. Full written spotlight is on the website too… link in the comments 🔗]]></description>
+      <link>https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas</link>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas#2026-07-15T12:36:01.923270+00:00</guid>
+      <pubDate>Wed, 15 Jul 2026 12:36:01 +0000</pubDate>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080"/>
+    </item>
   </channel>
 </rss>
