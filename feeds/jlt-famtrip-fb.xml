@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>JLT FAM Trips (Facebook)</title>
+    <link>https://janinelovestravel.co.uk/</link>
+    <description>Agent FAM trip features from JLT Group … firsthand trip reports for the JLT community</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Niamh's Turkey FAM trip with Holiday Best 🌍]]></title>
+      <description><![CDATA[Big shoutout to Niamh Considine, who has returned from Holiday Best's FAM trip to Turkey with twenty-two hotels under her belt and 70,000 steps to show for it. ✈️
+
+Six days, a sun-soaked coastline, and standout properties including Berry Blue Resort, Belek Beach Resort, and NG Phaselis Bay… Niamh did not hold back.
+
+From coffee-cup gifts at NG Phaselis Bay to a rollercoaster ride at Land of Legends right before closing time, she came back with destination knowledge you cannot get from a brochure. 🌍 That is what FAM trips are all about… and Turkey is now a whole lot more sellable for our community.
+
+Full blog on the website… link in the comments 🔗]]></description>
+      <link>https://janinelovestravel.co.uk/niamh-turkey-fam-trip-holiday-best/</link>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/niamh-turkey-fam-trip-holiday-best/#2026-07-16T08:17:02.495272+00:00</guid>
+      <pubDate>Thu, 16 Jul 2026 08:17:02 +0000</pubDate>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-famtrip-cover.jpg" length="61115" type="image/jpeg"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-famtrip-cover.jpg" medium="image" type="image/jpeg" width="940" height="788"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>JLT FAM Trips (LinkedIn)</title>
+    <link>https://janinelovestravel.co.uk/</link>
+    <description>Agent FAM trip features from JLT Group … LinkedIn Business edition</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Niamh's Turkey FAM trip with Holiday Best]]></title>
+      <description><![CDATA[FAM trips do what no training deck can: they put agents in a position to recommend with genuine confidence.
+
+Our agent Niamh Considine returned from Holiday Best's FAM trip to Turkey having toured twenty-two hotels in six days. Properties spanned the full market spectrum, from budget and family resorts through to high-end luxury, with standouts including Berry Blue Resort, Belek Beach Resort, and NG Phaselis Bay.
+
+When asked which moment on the trip she would return to, Niamh's answer was clear: "The NG Phaselis Bay site inspection."
+
+Twenty-two hotels seen in person. That is twenty-two properties Niamh can now match to the right client, with confidence and firsthand knowledge behind every recommendation.
+
+This is what the JLT supplier network delivers for our agents.]]></description>
+      <link>https://janinelovestravel.co.uk/niamh-turkey-fam-trip-holiday-best/</link>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/niamh-turkey-fam-trip-holiday-best/#2026-07-16T08:17:02.495272+00:00</guid>
+      <pubDate>Thu, 16 Jul 2026 08:17:02 +0000</pubDate>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-famtrip-cover.jpg" length="61115" type="image/jpeg"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-famtrip-cover.jpg" medium="image" type="image/jpeg" width="940" height="788"/>
+    </item>
+  </channel>
+</rss>
