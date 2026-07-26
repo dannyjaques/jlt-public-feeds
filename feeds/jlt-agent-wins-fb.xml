@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>JLT Agent Wins (Facebook)</title>
+    <link>https://janinelovestravel.co.uk/</link>
+    <description>Agent Wins — celebrating JLT agent milestones for the JLT Group community</description>
+    <language>en-GB</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Agent Win — Mark Heath]]></title>
+      <description><![CDATA[Mark Heath joined JLT just under a year ago… and look what's happened. ✈️
+
+Since his very first booking on 1st July 2025, Mark has completed 63 bookings and crossed £200,000 in gross holiday sales, reaching his year-one target three weeks early.
+
+What makes this stand out is the context. Mark has built this business alongside a full-time job that already runs around 55 hours a week. The late nights, early mornings and weekends are right there in the numbers.
+
+Within JLT, this is what showing up consistently looks like.
+
+His goal was simple: enough commission to fund his own family holidays. This summer he's taking the kids to Walt Disney World in Orlando, paid for by the business he's built. ✨
+
+Huge congratulations Mark.]]></description>
+      <link>https://janinelovestravel.co.uk/</link>
+      <guid isPermaLink="false">post:6a52155942879a470b06db24</guid>
+      <pubDate>Sun, 26 Jul 2026 18:45:45 +0000</pubDate>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-agent-wins-cover.png" length="843478" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-agent-wins-cover.png" medium="image" type="image/png" width="1080" height="1080"/>
+    </item>
+  </channel>
+</rss>
