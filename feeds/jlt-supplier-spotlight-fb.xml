@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>JLT Supplier Spotlight (Facebook)</title>
     <link>https://janinelovestravel.co.uk/</link>
     <description>Weekly Supplier Spotlight from JLT Group — supplier training features for JLT agents</description>
     <language>en-gb</language>
     <ttl>30</ttl>
-    <item>
-      <title><![CDATA[Fresh supplier spotlight for you all 🚢]]></title>
-      <description><![CDATA[Fresh supplier spotlight for you all 🚢
+    <item><title><![CDATA[Hummingbird Travel came into the JLT webinar to bust a few Maldives myths… and left us with a supplier worth a proper look for your premium book.]]></title><description><![CDATA[Hummingbird Travel came into the JLT webinar to bust a few Maldives myths… and left us with a supplier worth a proper look for your premium book.
+
+They're a trade-only DMC, family-run since 1988, and the largest luxury operator in the Maldives with 155+ vetted resort contracts. The bit that matters? They have their own staff on the ground in the Maldives, Sri Lanka, the Seychelles and London… not a bed bank. So when a seaplane's grounded or Malé airport is chaos, there's someone there to sort it.
+
+✈️ Ideal for:
+
+🌍 Honeymoon and celebration specialists
+
+🏝 Multi-gen family agents (villa bed configs sorted by reservations)
+
+🧭 Twin-centre builders pairing Sri Lanka with the Maldives
+
+💭 Concierge and lifestyle agencies with VIP clients
+
+One to note… off-season Maldives can save clients up to around 75% versus a high-end European summer.
+
+Full spotlight on the website… link in the comments 🔗
+
+First comment: https://janinelovestravel.co.uk/supplier-spotlight-hummingbird-travel]]></description><link>https://janinelovestravel.co.uk/supplier-spotlight-hummingbird-travel</link><pubDate>Fri, 31 Jul 2026 14:33:09 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/supplier-spotlight-hummingbird-travel#2026-07-31T14:33:09+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080" /></item><item>
+      <title>Fresh supplier spotlight for you all 🚢</title>
+      <description>Fresh supplier spotlight for you all 🚢
 
 Royal Caribbean's brand-new Legend of the Seas is now in service… the third Icon-class ship, and the first one ever to sail in Europe. If clients have been asking about "the big new one", this is her.
 
@@ -22,12 +40,12 @@ Why she's worth a spot in your book:
 
 🇪🇸 Med sailings from Barcelona and Rome now, Caribbean from autumn, Europe again in 2027
 
-Catch the full session and 300+ others in the agent hub webinar library. Full written spotlight is on the website too… link in the comments 🔗]]></description>
+Catch the full session and 300+ others in the agent hub webinar library. Full written spotlight is on the website too… link in the comments 🔗</description>
       <link>https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas</link>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas#2026-07-15T12:36:01.923270+00:00</guid>
       <pubDate>Wed, 15 Jul 2026 12:36:01 +0000</pubDate>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080"/>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg" />
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080" />
     </item>
   </channel>
 </rss>
