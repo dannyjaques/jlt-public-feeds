@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>JLT Supplier Spotlight (LinkedIn)</title>
     <link>https://janinelovestravel.co.uk/</link>
     <description>Weekly Supplier Spotlight from JLT Group — LinkedIn Business edition</description>
     <language>en-gb</language>
     <ttl>30</ttl>
-    <item>
-      <title><![CDATA[Royal Caribbean International has brought Legend of the Seas into service: the third Icon-class ship, and the first of the class to sail in Europe.]]></title>
-      <description><![CDATA[Royal Caribbean International has brought Legend of the Seas into service: the third Icon-class ship, and the first of the class to sail in Europe.
+    <item><title><![CDATA[Supplier Spotlight: Hummingbird Travel]]></title><description><![CDATA[Supplier Spotlight: Hummingbird Travel
+
+Hummingbird Travel is a trade-only luxury DMC, family-run since 1988 and the largest luxury operator in the Maldives. The JLT webinar covered where it fits for premium and honeymoon bookings.
+
+Coverage: Maldives (155+ resort contracts), Mauritius, Seychelles, Sri Lanka, 20+ Caribbean islands and Mexico.
+
+Model: Own ground-handling staff in every destination, rather than a bed-bank arrangement, with 24/7 support and VIP airport handling.
+
+Portal: Live rates and instant confirmation, with the base transfer included in the quoted price.
+
+Fit: Luxury tour operators, boutique agencies and concierge companies. Honeymoons, celebrations, multi-generational and twin-centre itineraries. Not suited to budget or highly price-sensitive bookings.
+
+Off-season Maldives can save clients up to around 75% versus a high-end European summer.
+
+Full spotlight on the Agent Hub.]]></description><link>https://janinelovestravel.co.uk/supplier-spotlight-hummingbird-travel</link><pubDate>Fri, 31 Jul 2026 14:33:09 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/supplier-spotlight-hummingbird-travel#2026-07-31T14:33:09+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080" /></item><item>
+      <title>Royal Caribbean International has brought Legend of the Seas into service: the third Icon-class ship, and the first of the class to sail in Europe.</title>
+      <description>Royal Caribbean International has brought Legend of the Seas into service: the third Icon-class ship, and the first of the class to sail in Europe.
 
 For agents, the appeal is breadth. One booking covers several completely different holidays, which suits multigenerational family groups and first-time cruisers in particular.
 
@@ -20,12 +34,12 @@ Trade support: Club Royal portal, Royal Genie digital brochures, Upper Deck rewa
 
 Less suited to clients seeking a small-ship or classic-liner experience.
 
-Full spotlight on the JLT Agent Hub.]]></description>
+Full spotlight on the JLT Agent Hub.</description>
       <link>https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas</link>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/supplier-spotlight-royal-caribbean-legend-of-the-seas#2026-07-15T13:11:25.164468+00:00</guid>
       <pubDate>Wed, 15 Jul 2026 13:11:25 +0000</pubDate>
-      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg"/>
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080"/>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" length="72894" type="image/jpeg" />
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-supplier-spotlight-cover.jpg" medium="image" type="image/jpeg" width="1080" height="1080" />
     </item>
   </channel>
 </rss>
