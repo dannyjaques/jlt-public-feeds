@@ -260,5 +260,55 @@ Pull your luxury cruise list before 30 June.</description>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
       <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-  </channel>
+  
+  <item>
+    <title><![CDATA[Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.]]></title>
+    <description><![CDATA[Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.
+
+The sailing runs round-trip from Los Angeles, calling at Cabo San Lucas, La Paz, Mazatlán, Manzanillo and Puerto Vallarta. Up to 42 shore excursions are bundled into the fare, not sold on top. That removes the price-objection moment before a client raises it.
+
+Mid-January is grey-whale season off Baja, which adds genuine natural-history depth to the Cabo and La Paz stops.
+
+Lead fares from £3,529pp, savings up to 35%. Campaign booking window closes 30 September 2026. The January 2027 sailing date gives clients a comfortable run-up once booked.
+
+Agents with winter-sun clients in this bracket should have this sailing in front of them before September.]]></description>
+    <link>https://janinelovestravel.co.uk/seven-seas-grandeur-mexican-riviera-spotlight-2026-08-07</link>
+    <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
+    <guid isPermaLink="false">https://janinelovestravel.co.uk/seven-seas-grandeur-mexican-riviera-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
+    <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png"/>
+    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080"/>
+  </item>
+  <item>
+    <title><![CDATA[Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.]]></title>
+    <description><![CDATA[Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.
+
+Opened in 2026, it is an all-suite, adults-only, all-inclusive beachfront resort in Costa Mujeres, north of Cancún. Every room is a suite, which removes the usual category upsell juggling and gives agents a clean lead for honeymoon and anniversary clients.
+
+It carries the Majestic Resorts name, a brand with a long track record in Punta Cana. For agents new to the property, one operational note: confirm the adults-only status at the point of booking, as listing information varies by distributor.
+
+New property, trusted brand, underserved segment. Worth learning this week.]]></description>
+    <link>https://janinelovestravel.co.uk/majestic-mirage-costa-mujeres-all-suite-resort-spotlight-2026-08-07</link>
+    <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
+    <guid isPermaLink="false">https://janinelovestravel.co.uk/majestic-mirage-costa-mujeres-all-suite-resort-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
+    <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png"/>
+    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080"/>
+  </item>
+  <item>
+    <title><![CDATA[Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.]]></title>
+    <description><![CDATA[Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.
+
+Wildlife and safari clients have Yala and Wilpattu, two national parks known for leopards, elephants and rich birdlife. Hill-country travellers have the cool plantations of the tea-growing regions. Coastal luxury clients have the south coast resorts.
+
+One destination, three clear client segments.
+
+The country operates on two monsoon systems, which means timing is the first thing to establish in any Sri Lanka booking. December to March suits the southwest coast and hill country; April to September opens up the east.
+
+In JLT, we see this as a destination worth preparing for now. Agents who understand the routing and timing are well placed when enquiries arrive.]]></description>
+    <link>https://janinelovestravel.co.uk/sri-lanka-spotlight-2026-08-07</link>
+    <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
+    <guid isPermaLink="false">https://janinelovestravel.co.uk/sri-lanka-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
+    <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png"/>
+    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080"/>
+  </item>
+</channel>
 </rss>
