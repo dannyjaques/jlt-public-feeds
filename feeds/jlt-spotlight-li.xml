@@ -1,71 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title><![CDATA[JLT Spotlight (LinkedIn)]]></title>
+    <title>JLT Spotlight (LinkedIn)</title>
     <link>https://janinelovestravel.co.uk/</link>
-    <description><![CDATA[Weekly Cruise, Hotel &amp; Destination spotlights from JLT Group]]></description>
+    <description>Weekly Cruise, Hotel &amp; Destination spotlights from JLT Group</description>
     <language>en-gb</language>
     <ttl>30</ttl>
-  <item><title><![CDATA[We have added The River Cruise Company to the JLT partner network, introduced through Protected Trust Services. Owner-managed by Denise Parkhouse and Kyle Beevers, it is dedicated to river cruising and operates as a booking agency for VIVA Cruises.]]></title><description><![CDATA[We have added The River Cruise Company to the JLT partner network, introduced through Protected Trust Services. Owner-managed by Denise Parkhouse and Kyle Beevers, it is dedicated to river cruising and operates as a booking agency for VIVA Cruises.
+    <item>
+      <title><![CDATA[Silversea has built a named Special Destination Experience at Canouan into select 2026/27 Caribbean sailings. The booking window for combined savings on those sailings closes 8 September.]]></title>
+      <description><![CDATA[Silversea has built a named Special Destination Experience at Canouan into select 2026/27 Caribbean sailings. The booking window for combined savings on those sailings closes 8 September.
+
+Within JLT, we are drawing luxury specialists' attention to this itinerary because the shore day is structured in a way that is genuinely sellable: a Carnaval parade on arrival, beach time on some of the most protected water in the Grenadines, then an evening soirée with barbecue, cocktails and live music. That is a day a client can picture before they have said yes.
+
+The ship reinforces the pitch. All-suite, ocean-facing, crew-to-guest ratio close to one-to-one, and the S.A.L.T. destination-dining programme tying the itinerary to the plate.
+
+For agents with luxury Caribbean enquiries on their desk this week: treat 8 September as the prompt to open a booking conversation with the right clients now.]]></description>
+      <link>https://janinelovestravel.co.uk/canouan-private-island-experience-spotlight-2026-08-28</link>
+      <pubDate>Fri, 28 Aug 2026 10:26:09 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/canouan-private-island-experience-spotlight-2026-08-28#2026-08-28T10:26:09.499820+00:00</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080"/>
+    </item>
+    <item>
+      <title><![CDATA[Within JLT, we spotlight supplier news when there is a practical booking angle attached. Ikos Dassia on Corfu has one right now.]]></title>
+      <description><![CDATA[Within JLT, we spotlight supplier news when there is a practical booking angle attached. Ikos Dassia on Corfu has one right now.
+
+A reduced minimum-stay requirement across late-summer 2026 dates came through the trade before it went public. Confirming the exact dates with the supplier this week puts agents ahead of the public listing.
+
+The property covers three distinct client types: high-value families, celebration couples, and couples after grown-up dining and beach service. Nine on-site restaurants with Michelin-starred menus, the Dine Out concept with complimentary access to local Corfiot tavernas, Ofsted-standard childcare for UK families, and the Ikos Spa by Anne Semonin Paris included in the stay rather than charged as an add-on.
+
+For agents with a Corfu enquiry already in the inbox, this is the week to act on it.]]></description>
+      <link>https://janinelovestravel.co.uk/ikos-dassia-spotlight-2026-08-28</link>
+      <pubDate>Fri, 28 Aug 2026 10:26:09 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/ikos-dassia-spotlight-2026-08-28#2026-08-28T10:26:09.499820+00:00</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080"/>
+    </item>
+    <item>
+      <title><![CDATA[Costa Rica sits high on the destination shortlist for nature-luxury travel, and this week's supplier material from Exsus Travel gives agents the specifics to act on it.]]></title>
+      <description><![CDATA[Costa Rica sits high on the destination shortlist for nature-luxury travel, and this week's supplier material from Exsus Travel gives agents the specifics to act on it.
+
+The itinerary pairs Arenal and Monteverde across eight nights, priced from £5,675pp, with a named lodge at each stage. Nayara Gardens in Arenal for volcano-view luxury; Monteverde Lodge & Gardens for cloud-forest immersion. The transfer between them, a 4WD descent to Lake Arenal followed by a 30-minute boat crossing, is a practical selling detail worth knowing.
+
+Within JLT, we track supplier material that arrives with enough specificity to move a conversation forward. This one does. Couples wanting adventure and wildlife without giving up comfort represent an established brief in Central America travel, and this itinerary answers it with product you can name.
+
+Keep Costa Rica on the enquiry shortlist and anchor at £5,675pp.]]></description>
+      <link>https://janinelovestravel.co.uk/costa-rica-arenal-monteverde-spotlight-2026-08-28</link>
+      <pubDate>Fri, 28 Aug 2026 10:26:09 +0000</pubDate>
+      <guid isPermaLink="false">https://janinelovestravel.co.uk/costa-rica-arenal-monteverde-spotlight-2026-08-28#2026-08-28T10:26:09.499820+00:00</guid>
+      <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080"/>
+    </item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>We have added The River Cruise Company to the JLT partner network, introduced through Protected Trust Services. Owner-managed by Denise Parkhouse and Kyle Beevers, it is dedicated to river cruising and operates as a booking agency for VIVA Cruises.</title><description>We have added The River Cruise Company to the JLT partner network, introduced through Protected Trust Services. Owner-managed by Denise Parkhouse and Kyle Beevers, it is dedicated to river cruising and operates as a booking agency for VIVA Cruises.
 
 The flagship route is the Danube itinerary linking Budapest and Vienna, sailing aboard MS VIVA TWO and MS VIVA TIARA. The fare covers full board, premium drinks, a daily-restocked mini-bar, RITUALS amenities, WiFi and gratuities. PTS-protected, with ATOL cover on flight-inclusive packages.
 
-Agents with first-time cruisers, culture-and-history clients, or couples wanting a slower pace between two European capitals will find this itinerary straightforward to match and book. Trade terms are agent-friendly: gross pricing with commission in the fare, ready-made itineraries, and a fully flexible tailor-made side. One account opens both Tripse and The River Cruise Company brands.]]></description><link>https://janinelovestravel.co.uk/danube-highlights-budapest-vienna-viva-cruises-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/danube-highlights-budapest-vienna-viva-cruises-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" /></item><item><title><![CDATA[Conrad Bali is a property worth knowing for any agent with a Bali enquiry in October 2026.]]></title><description><![CDATA[Conrad Bali is a property worth knowing for any agent with a Bali enquiry in October 2026.
+Agents with first-time cruisers, culture-and-history clients, or couples wanting a slower pace between two European capitals will find this itinerary straightforward to match and book. Trade terms are agent-friendly: gross pricing with commission in the fare, ready-made itineraries, and a fully flexible tailor-made side. One account opens both Tripse and The River Cruise Company brands.</description><link>https://janinelovestravel.co.uk/danube-highlights-budapest-vienna-viva-cruises-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/danube-highlights-budapest-vienna-viva-cruises-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>Conrad Bali is a property worth knowing for any agent with a Bali enquiry in October 2026.</title><description>Conrad Bali is a property worth knowing for any agent with a Bali enquiry in October 2026.
 
 In JLT, we look for properties that combine a strong track record with a genuine selling angle. The Conrad delivers both. Twenty years in Nusa Dua, 368 rooms and suites on a beachfront site, and a fully formed wellness concept, JIWA, built across three pillars: JIWA Spa, JIWA Sense and JIWA Strength.
 
 The commercial case this week is a live refundable rate. October 2026 dates are discounted by up to 41%, from around £73 per person per night based on two sharing. Refundable means agents can secure an enquiry without locking a client into a non-refundable commitment.
 
-The client match is clear: honeymooners, anniversary travellers, and wellness-focused clients who want a proven five-star with substance. Check October 2026 availability on the trade portal while these rates hold.]]></description><link>https://janinelovestravel.co.uk/conrad-bali-resort-spa-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/conrad-bali-resort-spa-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" /></item><item><title><![CDATA[Singapore Changi has our attention this week. For agents routing clients to Australia, New Zealand, or wider Southeast Asia, the stopover has become more than a connection to manage.]]></title><description><![CDATA[Singapore Changi has our attention this week. For agents routing clients to Australia, New Zealand, or wider Southeast Asia, the stopover has become more than a connection to manage.
+The client match is clear: honeymooners, anniversary travellers, and wellness-focused clients who want a proven five-star with substance. Check October 2026 availability on the trade portal while these rates hold.</description><link>https://janinelovestravel.co.uk/conrad-bali-resort-spa-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/conrad-bali-resort-spa-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>Singapore Changi has our attention this week. For agents routing clients to Australia, New Zealand, or wider Southeast Asia, the stopover has become more than a connection to manage.</title><description>Singapore Changi has our attention this week. For agents routing clients to Australia, New Zealand, or wider Southeast Asia, the stopover has become more than a connection to manage.
 
 Changi now offers a free, guided 2.5-hour city tour for transit passengers with a layover of 5.5 to 24 hours. Four tour options run daily in English, from 10am to 9:30pm. Inside the terminal, Jewel Changi's Rain Vortex is the world's tallest indoor waterfall at 40 metres, with free entry to the main atrium.
 
-This is an always-on airport programme. No sale window, no expiry. Agents quoting Australia or New Zealand itineraries via Singapore can build this in on any quote, at any time of the year.]]></description><link>https://janinelovestravel.co.uk/singapore-changi-airport-stopover-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/singapore-changi-airport-stopover-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" /></item><item>
-    <title><![CDATA[Virgin Voyages has confirmed its first-ever Scandinavian and Baltics season, and within JLT we have been tracking this since the announcement.]]></title>
-    <description><![CDATA[Virgin Voyages has confirmed its first-ever Scandinavian and Baltics season, and within JLT we have been tracking this since the announcement.
+This is an always-on airport programme. No sale window, no expiry. Agents quoting Australia or New Zealand itineraries via Singapore can build this in on any quote, at any time of the year.</description><link>https://janinelovestravel.co.uk/singapore-changi-airport-stopover-spotlight-2026-08-21</link><pubDate>Fri, 21 Aug 2026 04:47:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/singapore-changi-airport-stopover-spotlight-2026-08-21#2026-08-21T04:47:22Z</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Virgin Voyages has confirmed its first-ever Scandinavian and Baltics season, and within JLT we have been tracking this since the announcement.</title>
+    <description>Virgin Voyages has confirmed its first-ever Scandinavian and Baltics season, and within JLT we have been tracking this since the announcement.
 
 Valiant Lady will homeport in Amsterdam for Summer 2028, running Norwegian Fjords, Arctic Circle and Scandinavian capitals itineraries across 15 ports new to the fleet. The distinction that matters for agents: this is an adults-only, all-inclusive ship on a product category that has traditionally leaned family or traditional-premium.
 
 Practical timing: Sailing Club pre-registration opens 13 August 2026, general sale on 14 August. The client profile is clear: couples, friends travelling together, and returning cruisers who have moved past family-ship itineraries.
 
-The full spotlight is on our website.]]></description>
+The full spotlight is on our website.</description>
     <link>https://janinelovestravel.co.uk/valiant-lady-scandinavia-baltics-spotlight-2026-07-31</link>
     <pubDate>Fri, 31 Jul 2026 04:48:55 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/valiant-lady-scandinavia-baltics-spotlight-2026-07-31#2026-07-31T04:48:55.496865+00:00</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-  <item>
-    <title><![CDATA[Within JLT, we are tracking Transun's Aurora Winter Lodge break for agents with family clients looking at December 2026.]]></title>
-    <description><![CDATA[Within JLT, we are tracking Transun's Aurora Winter Lodge break for agents with family clients looking at December 2026.
+  
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Within JLT, we are tracking Transun's Aurora Winter Lodge break for agents with family clients looking at December 2026.</title>
+    <description>Within JLT, we are tracking Transun's Aurora Winter Lodge break for agents with family clients looking at December 2026.
 
 The lodge sits in Lannavaara, a quiet Arctic village in Swedish Lapland, positioned well away from the busier resort towns. The three-night break is full-board, with flights, thermal suits, a full-length husky safari, snowmobile safari, and a Sami reindeer camp visit included. Adult prices from £1,249pp.
 
 December 2026 is one departure per airport across five UK airports: Edinburgh, Gatwick, Bournemouth, Belfast, and Norwich. A £200pp deposit holds the booking.
 
-The client match is straightforward: families who want an authentic Arctic Christmas and have the budget to commit. Transun's trade contact is Dino Toouli, Head of Trade Relations.]]></description>
+The client match is straightforward: families who want an authentic Arctic Christmas and have the budget to commit. Transun's trade contact is Dino Toouli, Head of Trade Relations.</description>
     <link>https://janinelovestravel.co.uk/aurora-winter-lodge-spotlight-2026-07-31</link>
     <pubDate>Fri, 31 Jul 2026 04:48:55 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/aurora-winter-lodge-spotlight-2026-07-31#2026-07-31T04:48:55.496865+00:00</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-  <item>
-    <title><![CDATA[Japan sits at the top of Silversea's Asia season recommendations this month, and within JLT we are paying attention to why.]]></title>
-    <description><![CDATA[Japan sits at the top of Silversea's Asia season recommendations this month, and within JLT we are paying attention to why.
+  
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Japan sits at the top of Silversea's Asia season recommendations this month, and within JLT we are paying attention to why.</title>
+    <description>Japan sits at the top of Silversea's Asia season recommendations this month, and within JLT we are paying attention to why.
 
 The Silver Muse's Tokyo-to-Tokyo sailing covers eight ports in 12 days, including Kyoto access via Kobe, Okinawa, and volcanic Kagoshima, with no bag repacking between cities. Butler service in every suite, nine restaurants, and S.A.L.T. Kitchen menus built around the ports of call give agents genuine depth to work with.
 
 The client for this sailing is the one who has said "Japan" more than once and never committed. This itinerary removes the logistical barrier that usually holds them back.
 
-Agents with a luxury client base should have Silversea's Asia season itineraries pulled and ready before enquiries arrive.]]></description>
+Agents with a luxury client base should have Silversea's Asia season itineraries pulled and ready before enquiries arrive.</description>
     <link>https://janinelovestravel.co.uk/tokyo-japan-spotlight-2026-07-31</link>
     <pubDate>Fri, 31 Jul 2026 04:48:55 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/tokyo-japan-spotlight-2026-07-31#2026-07-31T04:48:55.496865+00:00</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-    <item><title><![CDATA[Greater Fort Lauderdale is in our spotlight this month, and the timing is deliberate.]]></title><description><![CDATA[Greater Fort Lauderdale is in our spotlight this month, and the timing is deliberate.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>Greater Fort Lauderdale is in our spotlight this month, and the timing is deliberate.</title><description>Greater Fort Lauderdale is in our spotlight this month, and the timing is deliberate.
 
 When UK clients say Florida, the reflex is Orlando or Miami. Fort Lauderdale sits between them on the map with 24 miles of coastline and over 300 miles of navigable waterways: beach, city and Everglades access all reachable without long transfers or choosing one thing over another.
 
@@ -73,13 +124,15 @@ One destination covers multiple client briefs. A luxury couple, a multi-generati
 
 Exclusive trade rates are live now with up to 25% off a mix of hotels. Fort Lauderdale belongs on the Florida shortlist for agents heading into the autumn enquiry season.
 
-Blog link to be added in comments after 24–48 hrs.]]></description><link>https://janinelovestravel.co.uk/greater-fort-lauderdale-spotlight-2026-07-24</link><pubDate>Wed, 29 Jul 2026 19:39:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/greater-fort-lauderdale-spotlight-2026-07-24#2026-07-29T19:39:22.365668+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" /></item><item><title><![CDATA[Premium all-inclusive Spain is a brief we are fielding more and more within JLT, and Ikos Andalusia in Estepona is one of our clearest answers to it.]]></title><description><![CDATA[Premium all-inclusive Spain is a brief we are fielding more and more within JLT, and Ikos Andalusia in Estepona is one of our clearest answers to it.
+Blog link to be added in comments after 24–48 hrs.</description><link>https://janinelovestravel.co.uk/greater-fort-lauderdale-spotlight-2026-07-24</link><pubDate>Wed, 29 Jul 2026 19:39:22 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/greater-fort-lauderdale-spotlight-2026-07-24#2026-07-29T19:39:22.365668+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>Premium all-inclusive Spain is a brief we are fielding more and more within JLT, and Ikos Andalusia in Estepona is one of our clearest answers to it.</title><description>Premium all-inclusive Spain is a brief we are fielding more and more within JLT, and Ikos Andalusia in Estepona is one of our clearest answers to it.
 
 The resort runs on what Ikos calls "Unconditional Luxury" all-inclusive: multiple restaurants and bars at no extra cost, spa access included for all adult guests, and complimentary electric MINI hire so clients explore the Costa del Sol rather than stay behind the resort gates. The Ikos Deluxe Collection offers, per Ikos's own portfolio literature, the largest villas across the whole group, with private pools and private beach access.
 
 For agents working the summer Spain market, timing matters. Inspiring Travel Co has 10% off for travel between 24 July and 18 September 2026, with real availability still open through mid-September. Worth having on the radar before the window closes.
 
-Blog link to be added in comments after 24–48 hrs.]]></description><link>https://janinelovestravel.co.uk/ikos-andalusia-spotlight-2026-07-24</link><pubDate>Wed, 29 Jul 2026 19:32:40 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/ikos-andalusia-spotlight-2026-07-24#2026-07-29T19:32:40.265213+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" /></item><item><title><![CDATA[Crystal Serenity is back on our radar, and we think it belongs on yours too.]]></title><description><![CDATA[Crystal Serenity is back on our radar, and we think it belongs on yours too.
+Blog link to be added in comments after 24–48 hrs.</description><link>https://janinelovestravel.co.uk/ikos-andalusia-spotlight-2026-07-24</link><pubDate>Wed, 29 Jul 2026 19:32:40 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/ikos-andalusia-spotlight-2026-07-24#2026-07-29T19:32:40.265213+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/"><title>Crystal Serenity is back on our radar, and we think it belongs on yours too.</title><description>Crystal Serenity is back on our radar, and we think it belongs on yours too.
 
 Since the brand's 2023 relaunch under new ownership, Crystal Cruises has repositioned as a serious ultra-luxury competitor. The "Serenity in Asia" sailing (7 to 23 April 2027, from £9,399pp including flights) is the kind of product that shows why: 16 nights, six countries, one booking. Thailand through to Hong Kong, unpacking once.
 
@@ -87,53 +140,57 @@ The number that matters is the crew-to-guest ratio. With 635 crew and up to 770 
 
 For agents working with well-travelled, long-haul luxury clients, this rewards familiarity with the product. Suite categories are open now. Early enquiries go to Inspiring Travel Co's cruise team at agencysales@itc-uk.com.
 
-Blog link to be added in comments after 24–48 hrs.]]></description><link>https://janinelovestravel.co.uk/crystal-serenity-spotlight-2026-07-24</link><pubDate>Fri, 24 Jul 2026 04:37:16 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/crystal-serenity-spotlight-2026-07-24#2026-07-24T04:37:16.841309+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" /><media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" /></item><item>
-      <title><![CDATA[The outer Seychelles are some of the most inaccessible waters on earth.]]></title>
-      <description><![CDATA[The outer Seychelles are some of the most inaccessible waters on earth. That inaccessibility is exactly what makes them relevant right now for agents working with ultra-luxury and expedition clients.
+Blog link to be added in comments after 24–48 hrs.</description><link>https://janinelovestravel.co.uk/crystal-serenity-spotlight-2026-07-24</link><pubDate>Fri, 24 Jul 2026 04:37:16 +0000</pubDate><guid isPermaLink="false">https://janinelovestravel.co.uk/crystal-serenity-spotlight-2026-07-24#2026-07-24T04:37:16.841309+00:00</guid><enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" /><ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" /></item>
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>The outer Seychelles are some of the most inaccessible waters on earth.</title>
+      <description>The outer Seychelles are some of the most inaccessible waters on earth. That inaccessibility is exactly what makes them relevant right now for agents working with ultra-luxury and expedition clients.
 
 Aqua Expeditions launches Aqua Lares in February 2026: a 77-metre superyacht with an icebreaker hull, 30 guests, 32 crew, sailing to territory almost no other vessel reaches. Aldabra Atoll, a UNESCO World Heritage Site home to over 100,000 giant tortoises, is the centrepiece of the 9-night itinerary.
 
 Shorter inner-island options run from 5 nights, with extensions to Zanzibar and Tanzania on the 10- and 11-night sailings. Rates start from £7,100 per person. Individual cabins are bookable now, not charter-only.
 
-This is an early-access window. Agents working with ultra-luxury and expedition clients should have it on the radar. Trade enquiries go through Exsus Travel.]]></description>
+This is an early-access window. Agents working with ultra-luxury and expedition clients should have it on the radar. Trade enquiries go through Exsus Travel.</description>
       <link>https://janinelovestravel.co.uk/aqua-lares-spotlight-2026-07-17</link>
       <pubDate>Fri, 17 Jul 2026 10:11:52 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/aqua-lares-spotlight-2026-07-17#2026-07-17T10:11:52.865083+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[In JLT, we track supplier rates for what they tell agents about a booking opportunity, not only for their headline number.]]></title>
-      <description><![CDATA[In JLT, we track supplier rates for what they tell agents about a booking opportunity, not only for their headline number.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>In JLT, we track supplier rates for what they tell agents about a booking opportunity, not only for their headline number.</title>
+      <description>In JLT, we track supplier rates for what they tell agents about a booking opportunity, not only for their headline number.
 
 The B2B rate currently showing for X2 Vibe Bangkok Sukhumvit, a 4-star BHMA Hotel Group property in Bangkok's Onnut area, is approximately £21 per person per night for November 2026, and it is fully refundable. That last detail matters.
 
 November is a long way out. A refundable rate means agents can secure a well-designed, well-connected Bangkok base now, hold the price, and build the wider itinerary around it without asking clients to commit non-refundable money to plans that may move.
 
-BTS Skytrain on the doorstep. Strong fit for Thailand first-timers and couples doing Bangkok before the islands. Worth adding to the knowledge bank now.]]></description>
+BTS Skytrain on the doorstep. Strong fit for Thailand first-timers and couples doing Bangkok before the islands. Worth adding to the knowledge bank now.</description>
       <link>https://janinelovestravel.co.uk/x2-vibe-bangkok-sukhumvit-hotel-spotlight-2026-07-17</link>
       <pubDate>Fri, 17 Jul 2026 10:11:52 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/x2-vibe-bangkok-sukhumvit-hotel-spotlight-2026-07-17#2026-07-17T10:11:52.865119+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Paros is one destination we are watching closely for 2026.]]></title>
-      <description><![CDATA[Paros is one destination we are watching closely for 2026. As Santorini continues to command premium prices and peak-season capacity constraints, agents are finding a stronger value case one ferry-ride over in the Cyclades.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Paros is one destination we are watching closely for 2026.</title>
+      <description>Paros is one destination we are watching closely for 2026. As Santorini continues to command premium prices and peak-season capacity constraints, agents are finding a stronger value case one ferry-ride over in the Cyclades.
 
 Paros offers the whitewashed villages, blue domes and turquoise water clients picture when they ask for Santorini, alongside proper sandy beaches the cliffside island cannot match. Kolympithres is the standout: granite boulders worn into natural swimming pools. Direct flights operate into Paros National Airport, and onward connections to Naxos, Antiparos and Milos are fast.
 
-Shoulder season 2026 is the window to act on. May, June and September offer full swimming conditions with pricing and availability at their most favourable. Agents building Cyclades itineraries for next year should have Paros on the table now.]]></description>
+Shoulder season 2026 is the window to act on. May, June and September offer full swimming conditions with pricing and availability at their most favourable. Agents building Cyclades itineraries for next year should have Paros on the table now.</description>
       <link>https://janinelovestravel.co.uk/paros-spotlight-2026-07-17</link>
       <pubDate>Fri, 17 Jul 2026 10:11:52 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/paros-spotlight-2026-07-17#2026-07-17T10:11:52.865131+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
 
-    <item>
-      <title><![CDATA[A first-hand trip report from a Regent Seven Seas specialist is in front of our agents this week.]]></title>
-      <description><![CDATA[A first-hand trip report from a Regent Seven Seas specialist is in front of our agents this week.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>A first-hand trip report from a Regent Seven Seas specialist is in front of our agents this week.</title>
+      <description>A first-hand trip report from a Regent Seven Seas specialist is in front of our agents this week.
 
 Harriet Smith sailed Seven Seas Splendor Lisbon to Monte Carlo over seven nights and filed a port-by-port account of how the ship feels to be on. The thread through the whole report: space.
 
@@ -141,46 +198,49 @@ No queuing, no crowded pool, no competition for a table. Embarkation in Lisbon r
 
 Two sailings are bookable now: a 14-night Lisbon to Rome Mediterranean departure on 17 October 2027 and an 11-night Canada and New England foliage sailing on 17 September 2026. The September 2026 window is close enough that agents with a ready client should move this week. On an all-suite ship, suite choice is the first conversation, and booking early protects it.
 
-Within JLT, first-hand specialist reports are what we put in front of agents. Real detail converts enquiries.]]></description>
+Within JLT, first-hand specialist reports are what we put in front of agents. Real detail converts enquiries.</description>
       <link>https://janinelovestravel.co.uk/seven-seas-splendor-spotlight-2026-07-14</link>
       <pubDate>Tue, 14 Jul 2026 16:19:50 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/seven-seas-splendor-spotlight-2026-07-14#2026-07-14T16:19:50.401401+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Most Algarve enquiries default to the coastal strip. Viceroy at Ombria gives agents something deliberately different.]]></title>
-      <description><![CDATA[Most Algarve enquiries default to the coastal strip. Viceroy at Ombria gives agents something deliberately different.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Most Algarve enquiries default to the coastal strip. Viceroy at Ombria gives agents something deliberately different.</title>
+      <description>Most Algarve enquiries default to the coastal strip. Viceroy at Ombria gives agents something deliberately different.
 
 The property sits near Querenca, built across a 150-hectare estate designed as a traditional Portuguese hill village. All 151 suites include a kitchen or kitchenette, a living room and a private terrace. An award-winning GEO-Certified golf course, a dark-sky stargazing programme in a certified reserve and a dedicated spa make this a strong fit across golf, wellness and multigenerational travel.
 
 In JLT, we track properties that give agents a clear story to lead with rather than a rate to defend. Viceroy at Ombria is that kind of property.
 
-A live Exsus offer runs until 30 July 2026: seven nights from £1,095pp, one complimentary night included, £100pp saved. Agents with Algarve enquiries in play should have it in the toolkit.]]></description>
+A live Exsus offer runs until 30 July 2026: seven nights from £1,095pp, one complimentary night included, £100pp saved. Agents with Algarve enquiries in play should have it in the toolkit.</description>
       <link>https://janinelovestravel.co.uk/viceroy-at-ombria-algarve-spotlight-2026-07-14</link>
       <pubDate>Tue, 14 Jul 2026 16:19:50 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/viceroy-at-ombria-algarve-spotlight-2026-07-14#2026-07-14T16:19:50.401401+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Chongqing is not on most agents' China lists yet. Within JLT, we think it should be.]]></title>
-      <description><![CDATA[Chongqing is not on most agents' China lists yet. Within JLT, we think it should be.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Chongqing is not on most agents' China lists yet. Within JLT, we think it should be.</title>
+      <description>Chongqing is not on most agents' China lists yet. Within JLT, we think it should be.
 
 The city is a river megacity with a striking futuristic skyline and a centuries-old wellness tradition rooted in hot springs, qigong and traditional Chinese medicine. That combination of cultural depth and contemporary energy is exactly what a post-classic-circuit China client is looking for.
 
-The bookable peg for this moment is Wendy Wu Tours' China Wellness &amp; Wisdom Retreat: eight days from £3,990pp, with exclusive access to a qigong master, reflexology and a Miao Medicine Clinic visit. One departure, 9 May 2027.
+The bookable peg for this moment is Wendy Wu Tours' China Wellness &amp;amp; Wisdom Retreat: eight days from £3,990pp, with exclusive access to a qigong master, reflexology and a Miao Medicine Clinic visit. One departure, 9 May 2027.
 
-For agents with wellness clients or travellers who have already covered Beijing, Shanghai and Xi'an, this is a destination worth raising now. Single-departure products reward the early conversation. Agents who have those conversations this week are better placed than those who wait.]]></description>
+For agents with wellness clients or travellers who have already covered Beijing, Shanghai and Xi'an, this is a destination worth raising now. Single-departure products reward the early conversation. Agents who have those conversations this week are better placed than those who wait.</description>
       <link>https://janinelovestravel.co.uk/china-wellness-wisdom-retreat-chongqing-spotlight-2026-07-14</link>
       <pubDate>Tue, 14 Jul 2026 16:19:50 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/china-wellness-wisdom-retreat-chongqing-spotlight-2026-07-14#2026-07-14T16:19:50.401401+00:00</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Arizona has been underplayed in UK agents' USA conversations for years, sitting in the shadow of California and Nevada on Southwest itineraries. In JLT, that is starting to change, and the timing behind it is concrete.]]></title>
-      <description><![CDATA[Arizona has been underplayed in UK agents' USA conversations for years, sitting in the shadow of California and Nevada on Southwest itineraries. In JLT, that is starting to change, and the timing behind it is concrete.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Arizona has been underplayed in UK agents' USA conversations for years, sitting in the shadow of California and Nevada on Southwest itineraries. In JLT, that is starting to change, and the timing behind it is concrete.</title>
+      <description>Arizona has been underplayed in UK agents' USA conversations for years, sitting in the shadow of California and Nevada on Southwest itineraries. In JLT, that is starting to change, and the timing behind it is concrete.
 
 A stronger pound against the dollar, a daily British Airways service from Heathrow into Phoenix, and a state that covers luxury resort, adventure, wellness and multi-gen family in a single itinerary loop. Scottsdale gives agents a genuine luxury case.
 
@@ -190,16 +250,17 @@ Visit Arizona is running a free live webinar for agents this Tuesday 7 July at 1
 
 Agents building October to February USA itineraries should have Arizona in the mix. The full spotlight is on the blog.
 
-Blog link to be added in comments after 24-48 hrs.]]></description>
+Blog link to be added in comments after 24-48 hrs.</description>
       <link>https://janinelovestravel.co.uk/arizona-spotlight-2026-07-03</link>
       <pubDate>Mon, 06 Jul 2026 11:37:23 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/arizona-spotlight-2026-07-03#2026-07-06T11:37:23Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Gleneagles is back on the JLT radar as we head into the autumn booking window.]]></title>
-      <description><![CDATA[Gleneagles is back on the JLT radar as we head into the autumn booking window.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Gleneagles is back on the JLT radar as we head into the autumn booking window.</title>
+      <description>Gleneagles is back on the JLT radar as we head into the autumn booking window.
 
 The 850-acre Perthshire estate holds three championship golf courses, including the PGA Centenary, host of the 2014 Ryder Cup and 2019 Solheim Cup. Restaurant Andrew Fairlie carries two Michelin stars and is the only two-star restaurant in Scotland at publication.
 
@@ -209,16 +270,17 @@ For agents, the opportunity is the multi-day sporting itinerary. A three or four
 
 Agents with HNW, sporting, luxury family, or milestone clients circling September or October should have Gleneagles on the table now, while autumn availability remains.
 
-Blog link to be added in comments after 24-48 hrs.]]></description>
+Blog link to be added in comments after 24-48 hrs.</description>
       <link>https://janinelovestravel.co.uk/gleneagles-spotlight-2026-07-03</link>
       <pubDate>Mon, 06 Jul 2026 11:37:10 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/gleneagles-spotlight-2026-07-03#2026-07-06T11:37:10Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[Aurora Expeditions at 35: a campaign worth moving on before September]]></title>
-      <description><![CDATA[Aurora Expeditions at 35: a campaign worth moving on before September
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>Aurora Expeditions at 35: a campaign worth moving on before September</title>
+      <description>Aurora Expeditions at 35: a campaign worth moving on before September
 
 Aurora Expeditions has launched its 35th-year campaign, running 1 July to 30 September 2026. It offers up to 30% off plus up to £2,600 air credit on Antarctica 26/27 and Arctic 27 sailings, applied as an additional voyage discount. Alongside it, the "100 Reasons to Sell AE Expeditions" UK trade incentive runs in the same window.
 
@@ -230,54 +292,58 @@ The client profile is adventure-luxury travellers, wildlife-first guests, bucket
 
 Agents with expedition enquiries on file: pull those names this week and match each to a voyage before September closes.
 
-Blog link to be added in comments after 24-48 hrs.]]></description>
+Blog link to be added in comments after 24-48 hrs.</description>
       <link>https://janinelovestravel.co.uk/aurora-expeditions-35-years-chasing-wonder-spotlight-2026-07-03</link>
       <pubDate>Mon, 06 Jul 2026 11:36:54 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/aurora-expeditions-35-years-chasing-wonder-spotlight-2026-07-03#2026-07-06T11:36:54Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[In JLT, we track destination news when the access story changes in a way that opens up new bookings. The TUI direct flight to Zanzibar is one of those moments.]]></title>
-      <description><![CDATA[In JLT, we track destination news when the access story changes in a way that opens up new bookings. The TUI direct flight to Zanzibar is one of those moments.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>In JLT, we track destination news when the access story changes in a way that opens up new bookings. The TUI direct flight to Zanzibar is one of those moments.</title>
+      <description>In JLT, we track destination news when the access story changes in a way that opens up new bookings. The TUI direct flight to Zanzibar is one of those moments.
 From 3 November 2027, TUI will operate the only nonstop UK service between London Gatwick and Zanzibar, twice weekly, through to 22 March 2028. Winter 2027 packages go on sale 2 July 2026.
 Lead-in prices start from £1,615 per person (two adults sharing, all-inclusive, seven nights including direct flights and transfers). Eight hotels on the island, plus the option to build in a short safari connection to Nyerere or the Serengeti via TUI Musement.
-For agents with clients comparing Indian Ocean options on value, Zanzibar now has the route to match the product. Note the 2 July on-sale date and build your shortlist before the window opens.]]></description>
+For agents with clients comparing Indian Ocean options on value, Zanzibar now has the route to match the product. Note the 2 July on-sale date and build your shortlist before the window opens.</description>
       <link>https://janinelovestravel.co.uk/zanzibar-spotlight-2026-06-26</link>
       <pubDate>Sat, 20 Jun 2026 18:03:40 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/zanzibar-spotlight-2026-06-26#refresh-2026-06-20T18:03:40Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[This week's Hotel Spotlight is Bodrum Loft, and it solves a specific client brief.]]></title>
-      <description><![CDATA[This week's Hotel Spotlight is Bodrum Loft, and it solves a specific client brief.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>This week's Hotel Spotlight is Bodrum Loft, and it solves a specific client brief.</title>
+      <description>This week's Hotel Spotlight is Bodrum Loft, and it solves a specific client brief.
 The hotel is a cluster of white minimalist villas stepping down a pine-forested hillside to a private cove in Demirbükü Bay, about 40 minutes from Bodrum airport. Nearly every room has a sea view, and the mood is calm rather than loud… closer to a private beach club than a party resort.
 For agents, that is the value. It matches the client who wants Bodrum's design and service without the crowds, with a strong table in Paper Moon and villa kitchens that suit families and longer stays.
-Hold it for the next client who asks for luxury without the scene.]]></description>
+Hold it for the next client who asks for luxury without the scene.</description>
       <link>https://janinelovestravel.co.uk/bodrum-loft-spotlight-2026-06-24</link>
       <pubDate>Sat, 20 Jun 2026 18:03:40 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/bodrum-loft-spotlight-2026-06-24#refresh-2026-06-20T18:03:40Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
-    <item>
-      <title><![CDATA[This week's Spotlight is Silversea, and the timing is the story.]]></title>
-      <description><![CDATA[This week's Spotlight is Silversea, and the timing is the story.
+    
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+      <title>This week's Spotlight is Silversea, and the timing is the story.</title>
+      <description>This week's Spotlight is Silversea, and the timing is the story.
 The line is offering up to 45 per cent off select voyages across all seven continents, with suites to be reserved by 30 June 2026. That two-week window is what makes this worth acting on now, not the headline number.
 For agents working in the luxury tier, Silversea's all-suite, all-inclusive model covers far more than the cabin, and reduced deposits from 15 per cent make securing a suite an easier message for clients with a voyage in mind.
 Three autumn 2026 sailings worth flagging: Silver Ray (Balearics, from £3,550 pp), Silver Nova and Silver Spirit (both Greek Isles and Istanbul, from £3,750 and £3,850 pp). Two overlapping Greek Isles departures give agents useful comparison material when a client is weighing schedule over ship.
-Pull your luxury cruise list before 30 June.]]></description>
+Pull your luxury cruise list before 30 June.</description>
       <link>https://janinelovestravel.co.uk/silversea-spotlight-2026-06-23</link>
       <pubDate>Sat, 20 Jun 2026 18:03:40 +0000</pubDate>
       <guid isPermaLink="false">https://janinelovestravel.co.uk/silversea-spotlight-2026-06-23#refresh-2026-06-20T18:03:40Z</guid>
       <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-      <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+      <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
     </item>
   
-  <item>
-    <title><![CDATA[Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.]]></title>
-    <description><![CDATA[Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.
+  
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.</title>
+    <description>Regent Seven Seas sits in the sweet spot for luxury specialists within JLT… bundled excursions, clear all-in pricing, no upsell moment at the gangway. Seven Seas Grandeur's ten-night Mexican Riviera itinerary on 14 January 2027 is a clean example of why.
 
 The sailing runs round-trip from Los Angeles, calling at Cabo San Lucas, La Paz, Mazatlán, Manzanillo and Puerto Vallarta. Up to 42 shore excursions are bundled into the fare, not sold on top. That removes the price-objection moment before a client raises it.
 
@@ -285,31 +351,33 @@ Mid-January is grey-whale season off Baja, which adds genuine natural-history de
 
 Lead fares from £3,529pp, savings up to 35%. Campaign booking window closes 30 September 2026. The January 2027 sailing date gives clients a comfortable run-up once booked.
 
-Agents with winter-sun clients in this bracket should have this sailing in front of them before September.]]></description>
+Agents with winter-sun clients in this bracket should have this sailing in front of them before September.</description>
     <link>https://janinelovestravel.co.uk/seven-seas-grandeur-mexican-riviera-spotlight-2026-08-07</link>
     <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/seven-seas-grandeur-mexican-riviera-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" length="559181" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-cruise.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-  <item>
-    <title><![CDATA[Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.]]></title>
-    <description><![CDATA[Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.
+  
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.</title>
+    <description>Within JLT, we keep an eye on what is opening and what is worth adding to an agent's working knowledge. Majestic Mirage Costa Mujeres is one that earns a place on that list.
 
 Opened in 2026, it is an all-suite, adults-only, all-inclusive beachfront resort in Costa Mujeres, north of Cancún. Every room is a suite, which removes the usual category upsell juggling and gives agents a clean lead for honeymoon and anniversary clients.
 
 It carries the Majestic Resorts name, a brand with a long track record in Punta Cana. For agents new to the property, one operational note: confirm the adults-only status at the point of booking, as listing information varies by distributor.
 
-New property, trusted brand, underserved segment. Worth learning this week.]]></description>
+New property, trusted brand, underserved segment. Worth learning this week.</description>
     <link>https://janinelovestravel.co.uk/majestic-mirage-costa-mujeres-all-suite-resort-spotlight-2026-08-07</link>
     <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/majestic-mirage-costa-mujeres-all-suite-resort-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" length="548281" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-hotel.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-  <item>
-    <title><![CDATA[Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.]]></title>
-    <description><![CDATA[Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.
+  
+<item xmlns:ns0="http://search.yahoo.com/mrss/">
+    <title>Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.</title>
+    <description>Sri Lanka is one we're preparing agents for right now, and there is a clear reason: it offers three genuinely distinct trip types within a single destination.
 
 Wildlife and safari clients have Yala and Wilpattu, two national parks known for leopards, elephants and rich birdlife. Hill-country travellers have the cool plantations of the tea-growing regions. Coastal luxury clients have the south coast resorts.
 
@@ -317,12 +385,13 @@ One destination, three clear client segments.
 
 The country operates on two monsoon systems, which means timing is the first thing to establish in any Sri Lanka booking. December to March suits the southwest coast and hill country; April to September opens up the east.
 
-In JLT, we see this as a destination worth preparing for now. Agents who understand the routing and timing are well placed when enquiries arrive.]]></description>
+In JLT, we see this as a destination worth preparing for now. Agents who understand the routing and timing are well placed when enquiries arrive.</description>
     <link>https://janinelovestravel.co.uk/sri-lanka-spotlight-2026-08-07</link>
     <pubDate>Fri, 07 Aug 2026 04:56:08 +0000</pubDate>
     <guid isPermaLink="false">https://janinelovestravel.co.uk/sri-lanka-spotlight-2026-08-07#2026-08-07T04:56:08Z</guid>
     <enclosure url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" length="669346" type="image/png" />
-    <media:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
+    <ns0:content url="https://dannyjaques.github.io/jlt-public-feeds/images/jlt-spotlight-cover-destination.png" medium="image" type="image/png" width="1080" height="1080" />
   </item>
-</channel>
+
+  </channel>
 </rss>
